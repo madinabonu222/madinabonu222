@@ -5,7 +5,7 @@ I'm Madinabonu, a full stack developer in the future ^^
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@madinabonu222-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/madinabonu222) [![Linkedin Badge](https://img.shields.io/badge/-Madinabonu-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madinabonu-akramova-394465234/) [![Mail Badge](https://img.shields.io/badge/-Madinabonu-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:misssonmi25@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@madinabonu222-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/misssonmi25) [![Linkedin Badge](https://img.shields.io/badge/-madinabonuakramova-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madinabonu-akramova-394465234/) [![Mail Badge](https://img.shields.io/badge/-Madinabonu-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:misssonmi25@gmail.com)
 
 Quick Intro:
 
@@ -14,7 +14,7 @@ Quick Intro:
 - 🐧 I like Linux
 - 🤔 I'm afraid of Math 
 - 💬 Most of my google searches start with `how to ...`
-- 📫 How to reach me: ***misssonmi25@gmail.com*** 
+- 📫 How to reach me: **misssonmi25@gmail.com** 
 - 😄 Fun fact: My first coding experience was "Hello World" 
 
 
@@ -26,6 +26,6 @@ Quick Intro:
 
 
 #### Github Stats
-![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=madinabonu&show_icons=true&theme=radical)
+![Madinabonu's GitHub stats](https://github-readme-stats.vercel.app/api?username=madinabonu222&show_icons=true&theme=radical)
 
 
